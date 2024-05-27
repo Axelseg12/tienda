@@ -1,0 +1,11 @@
+/*Estilos ejeselectores*/
+/*Jashley axel segundo monroy 05-04-2024*/
+   div{color:purple;
+       padding:20px;  /*cambia color div en lo que este dentro de div*/
+      background-color}
+
+      p{color:blue;
+        }
+
+      div p{color:green;
+      }
